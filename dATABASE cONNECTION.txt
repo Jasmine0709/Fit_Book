@@ -1,0 +1,13 @@
+For the Fit Book application, the anticipated collections (high-level table names) could include: 
+
+Users: This collection would store information about each user of the Fit Book app, such as their username, email, and password. 
+
+Workouts: This collection would store details about each workout session, such as the date, time, and type of exercises performed. 
+
+Exercises: This collection would store information about individual exercises, such as their name, muscle group targeted, and any additional details. 
+
+Body Measurements: This collection would store data related to the user's body measurements, such as their height, weight, and any custom measurements they choose to track. 
+
+Muscle Groups: This collection would store information about different muscle groups, which can be used for categorizing exercises and workouts. 
+
+These collections would help organize the data in the Fit Book database and provide a structured way for the application to store and retrieve information about users, their workouts, and their body measurements.
